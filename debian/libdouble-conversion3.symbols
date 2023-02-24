@@ -2,8 +2,8 @@ libdouble-conversion.so.3 libdouble-conversion3 #MINVER#
 * Build-Depends-Package: libdouble-conversion-dev
  (c++)"double double_conversion::StringToDoubleConverter::StringTo<double>(char const*, int, int*) const@Base" 3.1.7
  (c++)"double double_conversion::StringToDoubleConverter::StringTo<double>(unsigned short const*, int, int*) const@Base" 3.1.7
- (c++)"double double_conversion::StringToDoubleConverter::StringToIeee<char const*>(char const*, int, bool, int*) const@Base" 2.0.0
- (c++)"double double_conversion::StringToDoubleConverter::StringToIeee<unsigned short const*>(unsigned short const*, int, bool, int*) const@Base" 2.0.0
+ (optional|c++)"double double_conversion::StringToDoubleConverter::StringToIeee<char const*>(char const*, int, bool, int*) const@Base" 2.0.0
+ (optional|c++)"double double_conversion::StringToDoubleConverter::StringToIeee<unsigned short const*>(unsigned short const*, int, bool, int*) const@Base" 2.0.0
  (c++)"double_conversion::Bignum::AddBignum(double_conversion::Bignum const&)@Base" 2.0.0
  (c++)"double_conversion::Bignum::Align(double_conversion::Bignum const&)@Base" 2.0.0
  (c++)"double_conversion::Bignum::AssignBignum(double_conversion::Bignum const&)@Base" 2.0.0
