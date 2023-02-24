@@ -1,8 +1,18 @@
-double-conversion (3.1.7-4+u007) UNRELEASED; urgency=medium
+double-conversion (3.2.1-1) unstable; urgency=medium
 
-  * update
+  * New upstream version 3.2.1
 
- -- Debian Science Team <debian-science-maintainers@lists.alioth.debian.org>  Fri, 22 Apr 2022 14:22:29 +0800
+ -- Mo Zhou <lumin@debian.org>  Tue, 09 Aug 2022 07:25:08 -0700
+
+double-conversion (3.2.0-1) unstable; urgency=medium
+
+  * New upstream version 3.2.0
+    (In fact equivalent with our patched >= 3.1.7-3)
+  * Remove merged patch: fix-mips.patch
+  * Mark symbols disappearing with optimize=+lto as optional.
+    (Closes: #1015388)
+
+ -- Mo Zhou <lumin@debian.org>  Sat, 23 Jul 2022 09:32:36 -0700
 
 double-conversion (3.1.7-4) unstable; urgency=medium
 
