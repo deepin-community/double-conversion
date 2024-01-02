@@ -5,7 +5,7 @@ Section: libs
 Priority: optional
 Build-Depends: debhelper-compat (= 13),
                dh-exec
-Standards-Version: 4.6.0
+Standards-Version: 4.6.1
 Vcs-Browser: https://salsa.debian.org/science-team/double-conversion
 Vcs-Git: https://salsa.debian.org/science-team/double-conversion.git
 Homepage: https://github.com/google/double-conversion

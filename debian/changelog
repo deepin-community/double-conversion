@@ -1,3 +1,16 @@
+double-conversion (3.3.0-1) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Set upstream metadata fields:
+    Bug-Database, Bug-Submit, Repository, Repository-Browse.
+  * Update standards version to 4.6.1, no changes needed.
+  * Avoid explicitly specifying -Wl,--as-needed linker flag.
+
+  [ Mo Zhou ]
+  * New upstream version 3.3.0
+
+ -- Mo Zhou <lumin@debian.org>  Fri, 16 Jun 2023 23:51:05 -0400
+
 double-conversion (3.2.1-1) unstable; urgency=medium
 
   * New upstream version 3.2.1
