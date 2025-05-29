@@ -1,3 +1,9 @@
+double-conversion (3.3.0-1deepin1) unstable; urgency=medium
+
+  * feat: add sw64 support.
+
+ -- hudeng <hudeng@deepin.org>  Thu, 29 May 2025 13:18:32 +0800
+
 double-conversion (3.3.0-1) unstable; urgency=medium
 
   [ Debian Janitor ]
