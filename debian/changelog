@@ -1,8 +1,9 @@
-double-conversion (3.3.0-1deepin1) unstable; urgency=medium
+double-conversion (3.3.1-1) unstable; urgency=medium
 
-  * feat: add sw64 support.
+  * New upstream version 3.3.1
+  * Bump Standards-Version to 4.7.0 (no change needed).
 
- -- hudeng <hudeng@deepin.org>  Thu, 29 May 2025 13:18:32 +0800
+ -- Mo Zhou <lumin@debian.org>  Wed, 19 Feb 2025 16:18:18 -0500
 
 double-conversion (3.3.0-1) unstable; urgency=medium
 
