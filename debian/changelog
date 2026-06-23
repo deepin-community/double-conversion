@@ -1,3 +1,10 @@
+double-conversion (3.3.1-1deepin1) unstable; urgency=medium
+
+  * Port deepin patches from master to topic-upgrade-20260622:
+    - Add 0001-deepin-sw_64-support.diff: add sw64 architecture support.
+
+ -- lichenggang <lichenggang@uniontech.com>  Tue, 23 Jun 2026 10:00:00 +0800
+
 double-conversion (3.3.1-1) unstable; urgency=medium
 
   * New upstream version 3.3.1
