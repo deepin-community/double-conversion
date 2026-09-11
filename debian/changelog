@@ -1,3 +1,9 @@
+double-conversion (3.3.1-1deepin2) unstable; urgency=medium
+
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Fri, 11 Sep 2026 10:11:24 +0800
+
 double-conversion (3.3.1-1deepin1) unstable; urgency=medium
 
   * Port deepin patches from master to topic-upgrade-20260622:
